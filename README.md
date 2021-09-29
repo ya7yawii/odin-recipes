@@ -1,0 +1,1 @@
+This project is about getting familiar with html basics: writing html boilerplate and headings, inserting images tags with their attributes, knowing the difference between relative and absolute links, wrinting paragraphs, including unordered and ordered lists.
